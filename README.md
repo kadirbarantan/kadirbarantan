@@ -3,9 +3,10 @@
 
  
  <br>I am a backend developer focused on .NET, committed to continuous growth and building impactful solutions. I aim to create scalable systems with clean code and solid architecture. I see every project as an opportunity to improve myself and solve real-world problems. Feel free to explore my repositories to see my progress and projects.</h3>
+
  
 
-💻  **.NET Backend Developer** alanında kendimi geliştiriyorum
+<br>💻  **.NET Backend Developer** alanında kendimi geliştiriyorum
 
 📚  **ASP.NET Core, Web API, Entity Framework Core, SQL Server ve Backend Mimarisi** öğreniyorum
 
