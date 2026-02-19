@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kadir Baran TAN</h1>
-<h3 align="center">.NET ile backend geliştiren, üretmeye ve sürekli gelişime odaklanan bir geliştiriciyim. Temiz kod, sağlam mimari ve ölçeklenebilir sistemler oluşturmayı hedefliyorum. Her projeyi kendimi geliştirmek ve gerçek problemleri çözmek için bir fırsat olarak görüyorum. Gelişimimi ve projelerimi görmek için repolarıma göz atabilirsiniz.  
+<h3 align="center">I am a backend developer focused on .NET, committed to continuous growth and building impactful solutions. I aim to create scalable systems with clean code and solid architecture. I see every project as an opportunity to improve myself and solve real-world problems. Feel free to explore my repositories to see my progress and projects. 
 
  
- <br>I am a backend developer focused on .NET, committed to continuous growth and building impactful solutions. I aim to create scalable systems with clean code and solid architecture. I see every project as an opportunity to improve myself and solve real-world problems. Feel free to explore my repositories to see my progress and projects.</h3>
+ <br>.NET ile backend geliştiren, üretmeye ve sürekli gelişime odaklanan bir geliştiriciyim. Temiz kod, sağlam mimari ve ölçeklenebilir sistemler oluşturmayı hedefliyorum. Her projeyi kendimi geliştirmek ve gerçek problemleri çözmek için bir fırsat olarak görüyorum. Gelişimimi ve projelerimi görmek için repolarıma göz atabilirsiniz.</h3>
 
  
 
@@ -15,7 +15,7 @@
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kadir baran tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir baran tan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kadir-baran-tan-65124a254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir baran tan" height="30" width="40" /></a>
 </p>
 
 
